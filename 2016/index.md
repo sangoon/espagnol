@@ -1,9 +1,7 @@
 # Cours Espagnol :
 
 ## Professeur
-Maria Jose Rivera Palominos,
-mariariverapgmail.com,
-07 83 33 67 38
+Maria Jose Rivera Palominos
 
 ## Fourniture :
   - AULA INTERNACIONAL 1
