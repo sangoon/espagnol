@@ -1,0 +1,25 @@
+{
+  "name": "espagnol",
+  "version": "0.0.1",
+  "description": "mise en page des cours d'espagnol debutant du CCFE",
+  "main": "render.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sangoon/espagnol.git"
+  },
+  "author": "sangoon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sangoon/espagnol/issues"
+  },
+  "homepage": "https://github.com/sangoon/espagnol#readme",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "fs-extra": "^0.30.0",
+    "marked": "^0.3.6",
+    "path": "^0.12.7"
+  }
+}
