@@ -3,15 +3,15 @@
 ## AULA
 ### p. 8
 #### 2 - Sonidos
- 1. espagnol
- 2. / autre
- 3. français
- 4. espagnol
- 5. / autre
- 6. allemand
- 7. espagnol
- 8. italien
- 9. italien
+1. espagnol
+2. / autre
+3. français
+4. espagnol
+5. / autre
+6. allemand
+7. espagnol
+8. italien
+9. italien
 
 #### 3
 1. Chau
@@ -26,25 +26,25 @@
 10. Hasta pronto
 
 ##### Numeros
-5 - cinco
-3 - tres
-7 - siete
-9 - nueve
-20 - venta
-21 - venti uno
-40 - Cuarenta
+- 5: cinco
+- 3: tres
+- 7: siete
+- 9: nueve
+- 20: venta
+- 21: ventiuno
+- 40: Cuarenta
 
 #### Numeros 2
 28 - ventiocho
 
 #### letra y Sonidos
 ##### z / c
-- Cero : z
-- Comida : c
-- Coleccion : c
-- Zaragoza : z
+- **Ce**ro : z
+- **Co**mida : c
+- **Co**leccion : c
+- **Za**ragoza : z
 - Cincuenta : c
-- Camarero -c
+- Camarero : c
 - Cine : z
 - Quilo : c
 - Cinco : c
@@ -71,24 +71,26 @@
 - Pinguino : g
 
 ##### Las Tres Conjugaciones
-Ar / Er / Ir
-Estudiar Etudier / Leer (Lire) / Escribir Ecrire
-Cantar (Chanter) / Tener (avoir) / ir (aller)
-Cocinar (cuisiner) / Ser (être) / Vivir (Vivre)
+Ar | Er | Ir
+:-: | :-: | :-:
+Estudiar Etudier | Leer (Lire) | Escribir Ecrire
+Cantar (Chanter) | Tener (avoir) | ir (aller)
+Cocinar (cuisiner) | Ser (être) | Vivir (Vivre)
 
 ###### Presente de Indicativo :
 
 Verbos Regulares / ar / er/ ir
 
-/Hablar (parler)/ Comer (manger)/ Vivir (vivre)
-- yo / hablo / como / vivo
-- tu / hablas / comes / vives
-- el / ella / habla / come / vive
-- usted (vous singulier) / habla / come / vive
-- nosotros as / hablamos / comemos / vivimos
-- vosotros as / hablais / comeis / vivis
-- ello ellas / hablan / comen / viven
-- ustedes / hablan / comen / viven
+ | Hablar *(parler)* | Comer *(manger)* | Vivir *(vivre)*
+ - | :-: | :-: | :-:
+ yo | hablo | como | vivo
+ tu | hablas | comes | vives
+ el / ella | habla | come | vive
+ usted (vous singulier) | habla | come | vive
+ nosotros as | hablamos | comemos | vivimos
+ vosotros as | hablais | comeis | vivis
+ ello ellas | hablan | comen | viven
+ ustedes | hablan | comen | viven
 
 ##### Verbos Regulares
 - Abrir (Ouvrir) : 3
