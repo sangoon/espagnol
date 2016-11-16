@@ -86,7 +86,7 @@ Verbos Regulares / ar / er / ir
  **yo** | hablo | como | vivo
  **tu** | hablas | comes | vives
  **el / ella** | habla | come | vive
- **usted *(vous singulier)* ** | habla | come | vive
+ **usted** ***(vous singulier)*** | habla | come | vive
  **nosotros(as)** | hablamos | comemos | vivimos
  **vosotros(as)** | hablais | comeis | vivis
  **ello / ellas** | hablan | comen | viven
