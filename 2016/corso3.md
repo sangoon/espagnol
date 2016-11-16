@@ -1,4 +1,5 @@
-
+# Corso 3
+---
 
 ## Las preposiciones de lugar (lieu)
 - delante de: devant
@@ -13,7 +14,7 @@
 - a la derecha de : à droite de
 - a la izquierda de: à gauche de
 - al lado de: à côté de
-- lejos de: lon de
+- lejos de: loin de
 - cerca de: près de
 - encima de: au-dessus de
 - debajo de: au-dessus de

@@ -72,25 +72,25 @@
 
 ##### Las Tres Conjugaciones
 Ar | Er | Ir
-:-: | :-: | :-:
+:-: |
 Estudiar Etudier | Leer (Lire) | Escribir Ecrire
 Cantar (Chanter) | Tener (avoir) | ir (aller)
 Cocinar (cuisiner) | Ser (être) | Vivir (Vivre)
 
 ###### Presente de Indicativo :
 
-Verbos Regulares / ar / er/ ir
+Verbos Regulares / ar / er / ir
 
  /| Hablar *(parler)* | Comer *(manger)* | Vivir *(vivre)*
- - | :-: | :-: | :-:
- yo | hablo | como | vivo
- tu | hablas | comes | vives
- el / ella | habla | come | vive
- usted (vous singulier) | habla | come | vive
- nosotros as | hablamos | comemos | vivimos
- vosotros as | hablais | comeis | vivis
- ello ellas | hablan | comen | viven
- ustedes | hablan | comen | viven
+ :-: |
+ **yo** | hablo | como | vivo
+ **tu** | hablas | comes | vives
+ **el / ella** | habla | come | vive
+ **usted *(vous singulier)*** | habla | come | vive
+ **nosotros(as)** | hablamos | comemos | vivimos
+ **vosotros(as)** | hablais | comeis | vivis
+ **ello / ellas** | hablan | comen | viven
+ **ustedes** | hablan | comen | viven
 
 ##### Verbos Regulares
 - Abrir (Ouvrir) : 3

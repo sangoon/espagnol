@@ -7,8 +7,8 @@
 
 *Remarque : vosotros / vosotras ne s'utilise qu'en Espagne*
 
-/ | Er | Ar | Ir
-:-: | :-: | :-: | :-:
+ | Er | Ar | Ir
+:-:|
 **yo** | Soy | Estoy | Tengo
 **Tu** | Eres | Estas | Tienes
 **El - ella - usted** | Es | Esta | Tienes
