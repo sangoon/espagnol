@@ -2,7 +2,7 @@
 
 ## Presentation en espagnol
 Formel | Informel | Francais | Réponse
- :-: |
+:-:|:-:|:-:|:-:|
 | Buenos dias | Bonjour|
 | Buenas tardes | Bonsoir|
 | Buenas noches | Bonne nuit|
