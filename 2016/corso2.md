@@ -72,7 +72,7 @@
 
 ##### Las Tres Conjugaciones
 Ar | Er | Ir
-:-: |
+:-:|:-:|:-:|
 Estudiar Etudier | Leer (Lire) | Escribir Ecrire
 Cantar (Chanter) | Tener (avoir) | ir (aller)
 Cocinar (cuisiner) | Ser (être) | Vivir (Vivre)
