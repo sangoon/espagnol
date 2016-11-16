@@ -81,7 +81,7 @@ Cocinar (cuisiner) | Ser (être) | Vivir (Vivre)
 
 Verbos Regulares / ar / er/ ir
 
- | Hablar *(parler)* | Comer *(manger)* | Vivir *(vivre)*
+ /| Hablar *(parler)* | Comer *(manger)* | Vivir *(vivre)*
  - | :-: | :-: | :-:
  yo | hablo | como | vivo
  tu | hablas | comes | vives
