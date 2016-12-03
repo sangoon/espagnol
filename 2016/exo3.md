@@ -1,3 +1,11 @@
+## AULA p 18
+a. Las personas que estan en la fiesta
+  - Ana
+  - Peter
+  - Stephanie, Francessa, estudiante de espagnole en la escuela de ruan
+  - Elvira, Colombiana
+  - Jose Antonio, professor
+  - Catrina, estudies espagnol, americana
 
 ## AULA p. 12 / 13
  a. Ana
@@ -16,4 +24,4 @@
       - 27 / 913490025
       - Barbara / Enfermera / barabara5@mail.com
     - b.
-  8. 
+  8.

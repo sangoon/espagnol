@@ -16,7 +16,7 @@
 **Vosotros(as)** |Sois|Estais|Teneis
 **Ellos - ellas - ustedes** |Son|Estan|Tienen
 
-### Ser / Estar (deux variantes du verbe etre)
+### Ser / Estar (deux variantes du verbe être)
 #### Ser :
  1. Identidad : Soy Maria
  2. Origen : Soy Frances
